@@ -1,0 +1,40 @@
+nav ul li a{
+    font-size: 1.1rem;
+    /* font-weight: 750; */
+  }
+ .full-footer{
+    background-color:#302d2d;
+ }
+ .full-footer img {
+    margin-inline-start: -35px;
+ }
+ .bgDesign{
+    color: aliceblue;;
+ }
+ .top-sec{
+   background-color: rgba(37, 36, 36, 0.767);
+    color: #fff;
+}
+.mid-sec{
+   background-color: rgba(37, 36, 36, 0.767);
+   /* overflow: hidden;
+   padding: 15px; */
+}
+.mid-sec hr{
+background-color: aliceblue;
+}
+.innerImg{
+   overflow: hidden;
+   padding: 10px;
+}
+.innerImg img{
+   transition: all 0.3s ease;
+}
+.innerImg:hover img{
+   transform: scale(1.2);
+ }
+.card-body{
+   background-color: black;
+}
+  
+  
